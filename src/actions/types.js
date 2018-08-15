@@ -1,0 +1,3 @@
+export const CHANGE_TO_MAIN = "CHANGE_TO_MAIN";
+export const CHANGE_TO_INVENTORY = "CHANGE_TO_INVENTORY";
+export const CHANGE_TO_MAP = "CHANGE_TO_MAP";
